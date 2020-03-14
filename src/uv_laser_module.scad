@@ -97,4 +97,4 @@ module uv_laser_module_cooler(self)
 }
 
 
-uv_laser_module_cooler(UVLaserModuleParams);
+//uv_laser_module_cooler(UVLaserModuleParams);
